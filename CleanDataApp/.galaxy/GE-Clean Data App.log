@@ -1,0 +1,14 @@
+[2023-01-02 10:59:05] [L] galaxy property is null or empty 
+[2023-01-02 10:59:05] [L] Non-GB Project : Clean Data App 
+[2023-01-02 10:59:05] [L] allprojects : project : app 
+[2023-01-02 10:59:05] [L] Non-GB Project : app 
+[2023-01-02 10:59:05] [D] gradle projects loaded 
+[2023-01-02 10:59:05] [I] set common default repository : samsung maven 
+[2023-01-02 10:59:05] [I]     Default Repo : buildscript repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2023-01-02 10:59:05] [I]     Default Repo : repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2023-01-02 10:59:05] [I] set common default strategy 
+[2023-01-02 10:59:05] [I] set common default repository : samsung maven 
+[2023-01-02 10:59:05] [I]     Default Repo : buildscript repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2023-01-02 10:59:05] [I]     Default Repo : repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2023-01-02 10:59:05] [I] set common default strategy 
+[2023-01-02 10:59:51] [D] gradle projects evaluated 
